@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": 1001,
+    "customer_name": "Acme Corp",
+    "product_name": "Widget A",
+    "qty": 100,
+    "unit_price": 25.5,
+    "total": 2550.0,
+    "order_date": "2024-01-15",
+    "status": "Completed"
+  },
+  {
+    "order_id": 1002,
+    "customer_name": "TechCorp",
+    "product_name": "Widget B",
+    "qty": 50,
+    "unit_price": 35.75,
+    "total": 1787.5,
+    "order_date": "2024-01-20",
+    "status": "Pending"
+  },
+  {
+    "order_id": 1003,
+    "customer_name": "Global Inc",
+    "product_name": "Widget C",
+    "qty": 200,
+    "unit_price": 15.0,
+    "total": 3000.0,
+    "order_date": "2024-02-01",
+    "status": "Completed"
+  }
+]

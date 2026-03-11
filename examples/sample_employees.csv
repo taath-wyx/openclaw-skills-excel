@@ -1,0 +1,5 @@
+id,name,dept,position,salary,start_date,email
+1,Alice Johnson,Sales,Manager,70000,2020-01-15,alice@example.com
+2,Bob Smith,IT,Developer,85000,2020-06-01,bob@example.com
+3,Charlie Brown,HR,Specialist,65000,2021-03-10,charlie@example.com
+4,David Wilson,Finance,Analyst,72000,2021-09-20,david@example.com

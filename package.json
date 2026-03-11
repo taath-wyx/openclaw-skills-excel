@@ -1,0 +1,27 @@
+{
+  "name": "openclaw-skills-excel",
+  "version": "2.0.0",
+  "description": "A powerful Excel file reading and writing skill for OpenClaw with template engine support",
+  "main": "src/__init__.py",
+  "scripts": {
+    "test": "python -m pytest tests/ -v",
+    "example": "python examples/basic_usage.py"
+  },
+  "keywords": [
+    "openclaw",
+    "excel",
+    "pandas",
+    "template",
+    "automation"
+  ],
+  "author": "taath-wyx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/openclaw-skills-excel.git"
+  },
+  "dependencies": {
+    "pandas": ">=2.0.0",
+    "openpyxl": ">=3.1.5"
+  }
+}
